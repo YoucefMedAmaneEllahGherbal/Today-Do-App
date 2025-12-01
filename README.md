@@ -1,6 +1,6 @@
 # today_do_app
 
-A new Flutter project.
+A new Flutter project. Today Do app is an app to track our habbits and daily task completion.
 
 ## Getting Started
 
